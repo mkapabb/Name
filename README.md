@@ -1,3 +1,3 @@
 # Name
 
-Welcom to my portfolio!
+Welcome to my portfolio!
